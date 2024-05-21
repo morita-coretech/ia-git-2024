@@ -1,1 +1,2 @@
 featureで書いたよ
+mainで描いたよ
